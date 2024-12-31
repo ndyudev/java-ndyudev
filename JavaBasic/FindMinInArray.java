@@ -20,5 +20,6 @@ public class FindMinInArray {
             }
         }
         System.out.println("Số nhỏ nhất trong mảng là: " + min);
+        scanner.close();
     }
 }
